@@ -1,0 +1,5 @@
+train (t-x0430u7bloiergya9s42jfnmm) {
+  utterance ("[g:ArrivalTime] (인천대입구역)[v:StartPoint]에서 (계양역)[v:EndPoint] 어떻게 가?")
+  plan (Y2BhkEqtSMwtyEnVKy5NKk+s1HMsKsosS8wJycxNZRBHk3PLzEsJSCzJwJBwBYrnZ+aVMEiiSQSXJBaVQKSYGRgZmIAkA5AGQQgA8cGiAA==)
+  last-modified (1560860566809)
+}

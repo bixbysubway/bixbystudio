@@ -1,0 +1,3 @@
+integer (ArrivalTime) {
+  description (경과시간)
+}
