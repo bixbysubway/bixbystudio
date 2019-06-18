@@ -132,8 +132,10 @@ module.exports.function = function findPath (startPoint, endPoint) {
   }
   
   console.log(pathTime(g.shortestPath('동막', '문학경기장').concat('동막').reverse()));
-  var result = pathTime(g.shortestPath(startPoint, endPoint).concat(startPoint).reverse());
+  var result1 = pathTime(g.shortestPath('동막', '문학경기장').concat('동막').reverse());
+  var result2 = g.shortestPath('동막', '원인재').concat(['동막']).reverse();
   return {
-    arrivaltime:result
+    arrivaltime:result1,
+    waypoint: result2
   }
 }

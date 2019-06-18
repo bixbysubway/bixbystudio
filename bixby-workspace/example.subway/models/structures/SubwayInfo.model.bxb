@@ -5,4 +5,8 @@ structure (SubwayInfo) {
     type (ArrivalTime)
     min (Required) max (One)
   }
+  property (waypoint) {
+    type (WayPoint)
+    min (Required) max (Many)
+  }
 }

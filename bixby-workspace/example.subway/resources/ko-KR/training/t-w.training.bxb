@@ -1,5 +1,5 @@
 train (t-wdt2y0droawebxwx4q46no6wx) {
-  utterance ("[g:ArrivalTime] (인천대입구역)[v:StartPoint]에서 (문학경기장)[v:EndPoint] 어떻게 가?")
-  plan (Y2BhkEqtSMwtyEnVKy5NKk+s1HMsKsosS8wJycxNZRBHk3PLzEsJSCzJwJBwBYrnZ+aVMEiiSQSXJBaVQKSYGRgZmIAkA5AGQQgA8cGiAA==)
-  last-modified (1560861387050)
+  utterance ("[g:SubwayInfo] (인천대입구역)[v:StartPoint]에서 (문학경기장)[v:EndPoint] 어떻게 가?")
+  plan (Y2BhkEytSMwtyEnVKy5NKk+s1AsGU555afkM4mhSbpl5KQGJJRkYEq5A8fzMvBJMw0oSi0ogUswMjAxMQJIBSIMgBID4YFEA)
+  last-modified (1560864302736)
 }

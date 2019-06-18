@@ -1,0 +1,5 @@
+train (t-uroe8nlsctwhb94xqze3mlb49) {
+  utterance ("[g:SubwayInfo] (동막역)[v:StartPoint]에서 (문학경기장)[v:EndPoint] 어떻게 가?")
+  plan (Y2BhkEytSMwtyEnVKy5NKk+s1AsGU555afkM4mhSbpl5KQGJJRkYEq5A8fzMvBJMw0oSi0ogUswMjAxMQJIBSIMgBID4YFEA)
+  last-modified (1560864501251)
+}
